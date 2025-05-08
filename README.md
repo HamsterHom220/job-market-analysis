@@ -29,4 +29,4 @@ python scraper.py
 
 4. Put resulting `output.json` to the same folder where `index.html` is located and run `python -m http.server -8000` in a terminal for the same directory.
 
-5. Open the link displayed in the terminal - e.g., `(http://[::]:57536/`
+5. Open the link displayed in the terminal - e.g., `http://[::]:57536/`
